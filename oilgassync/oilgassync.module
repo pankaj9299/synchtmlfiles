@@ -1,0 +1,5 @@
+<?php 
+function oilgassync_cron() {
+    $queue = \Drupal::queue('oilgassync_queue_worker');
+    $queue->createItem(1);
+}

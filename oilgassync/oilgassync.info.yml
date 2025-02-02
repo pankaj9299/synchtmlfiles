@@ -1,0 +1,5 @@
+name: 'OilGasSync'
+type: module
+description: 'This module is used to sync the oil / gas files and create those as nodes in drupal.'
+package: Custom
+core_version_requirement: ^10 || ^11
