@@ -16,3 +16,8 @@ This custom Drupal module syncs HTML files from a specified folder under the pub
 2. **Enable the module**:
    ```bash
    drush en synchtmlfiles
+
+Dependencies
+
+1. Drupal 10 or later
+2. Drupal QueueWorkers
