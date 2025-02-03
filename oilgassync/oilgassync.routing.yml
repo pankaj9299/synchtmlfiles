@@ -1,7 +1,1 @@
-oilgassync.weather_page:
-  path: '/weather'
-  defaults:
-    _title: 'Weather at the market'
-    _controller: 'Drupal\oilgassync\Controller\WeatherPage::build'
-  requirements:
-    _permission: 'access content'
+
