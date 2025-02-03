@@ -1,6 +1,6 @@
 # HTML Files to Node Sync Module
 
-A custom Drupal module to synchronize HTML files from a designated folder into Drupal nodes. Uses Drupal Queue Workers and Cron for efficient processing.
+This custom Drupal module syncs HTML files from a specified folder under the public repository and creates new nodes under a custom content type. The module utilizes Drupal QueueWorkers and the Drupal Cron system to efficiently handle the task.
 
 ## Features
 
