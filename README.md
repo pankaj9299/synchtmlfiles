@@ -1,4 +1,4 @@
-# HTML Folder to Node Sync Module
+# HTML Files to Node Sync Module
 
 A custom Drupal module to synchronize HTML files from a designated folder into Drupal nodes. Uses Drupal Queue Workers and Cron for efficient processing.
 
